@@ -1,4 +1,4 @@
-# electron-build-hello-world
+# Building Hello World Desktop Apps with Vue.js And Electron
 
 ## Install vue cli
 
